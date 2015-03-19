@@ -6,6 +6,7 @@ Prerequisites:
       you may need to touch up line 23 of make_data.sh to use the correct program)
   * ruby
   * bash
+  * pwgen
 
 To create the sample data directory, run:
 
