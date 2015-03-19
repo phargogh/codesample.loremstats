@@ -31,7 +31,7 @@ function makeFileDir {
 }
 
 # Put the data in a known foldername.
-$DATADIR=lorem-data
+DATADIR=lorem-data
 mkdir $DATADIR
 for dirnum in {0..7}
 do
